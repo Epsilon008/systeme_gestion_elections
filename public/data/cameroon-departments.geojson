@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "VN",
+          "name": "Vina",
+          "code": "VN",
+          "parent_id": "AD"  
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[13.6, 6.6], [14.1, 6.6], [14.1, 7.1], [13.6, 7.1], [13.6, 6.6]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "DJ",
+          "name": "Djerem",
+          "code": "DJ",
+          "parent_id": "AD"  
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[13.7, 6.7], [14.2, 6.7], [14.2, 7.2], [13.7, 7.2], [13.7, 6.7]]]
+        }
+      }
+      
+    ]
+  }

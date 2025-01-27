@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "AD",
+          "name": "Adamaoua",
+          "code": "AD",
+          "parent_id": "CMR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[13.5, 6.5], [14.5, 6.5], [14.5, 7.5], [13.5, 7.5], [13.5, 6.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "CE",
+          "name": "Centre",
+          "code": "CE",
+          "parent_id": "CMR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[11.5, 4.5], [12.5, 4.5], [12.5, 5.5], [11.5, 5.5], [11.5, 4.5]]]
+        }
+      }
+      
+    ]
+  }

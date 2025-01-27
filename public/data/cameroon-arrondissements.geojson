@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "NGD",
+          "name": "Ngaoundere",
+          "code": "NGD",
+          "parent_id": "VN"  
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[13.65, 6.65], [13.9, 6.65], [13.9, 6.9], [13.65, 6.9], [13.65, 6.65]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "TBR",
+          "name": "Tibati",
+          "code": "TBR",
+          "parent_id": "DJ"  
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[13.75, 6.75], [14.0, 6.75], [14.0, 7.0], [13.75, 7.0], [13.75, 6.75]]]
+        }
+      }
+      
+    ]
+  }
